@@ -8,6 +8,8 @@
 
 **Data:** 12.11.2026
 
+## Link do Github'a: https://github.com/bartoszpaluda/wprowadzenie_do_nlp
+
 ## 1. Cel ćwiczenia
 
 Celem ćwiczenia jest empiryczne zbadanie wpływu struktury i rozmiaru słownika na algorytm tokenizacji podsłownej BPE (Byte Pair Encoding) oraz wpływu rozkładu kontekstów wieloznacznego słowa (homonimu) na reprezentacje wektorowe uczone metodą Word2Vec (Skip-gram). Analizie poddano również separowalność grup tematycznych w przestrzeni osadzeń na podstawie rzutu PCA 2D oraz metryk podobieństwa cosinusowego.
