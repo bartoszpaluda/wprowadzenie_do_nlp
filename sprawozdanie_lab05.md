@@ -4,7 +4,7 @@
 
 **Zajęcia nr / temat:** Laboratorium 5 — Wpływ korpusu na tokenizację BPE i embeddingi Word2Vec
 
-**Autor / grupa:** Bartek / \[Wpisz numer grupy\]
+**Autor / grupa:** Bartosz Paluda
 
 **Data:** 12.11.2026
 
@@ -80,7 +80,8 @@ Celem ćwiczenia jest empiryczne zbadanie wpływu struktury i rozmiaru słownika
   * Wewnątrz Grupy 2 (Mechanizm): **0.4475**
   * Między Grupą 1 a Grupą 2: **0.3414**
 
-*(Wklej tutaj wygenerowany wykres: `pca_zamek_model1.png`)*
+<img width="887" height="590" alt="zamek" src="https://github.com/user-attachments/assets/b8076536-969e-4e18-9801-65efb47b12b0" />
+
 
 ## 4. Analiza i interpretacja
 
